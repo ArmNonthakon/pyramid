@@ -7,3 +7,4 @@ git clone https://github.com/ArmNonthakon/pyramid.git
 ```bash
 cd pyramid
 ```
+run code
